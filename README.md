@@ -6,7 +6,11 @@
 <h4 align="center">Writing code that someday I will understand</h4>
 
 
-<img src="https://images.steamusercontent.com/ugc/885384897173592716/7E544BBB0817EB5C0F103E9A7EEC77F5CC3140D7/">
+ <div align="center" style="margin: 30px 0;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWE1aTVlNmRnajQ0bzE1a2k4MGhvenJlZXg1b3d1Z3JsZDBjZm13ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="800">
+    </div>
+
+
 
 <p align="left">
   I am Diego, I am 19 years old... <br>
