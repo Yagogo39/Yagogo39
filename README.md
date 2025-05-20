@@ -1,7 +1,7 @@
 
 <h2 align="center">#include &lt;coffee.h&gt;</h2>
 
-<h1 align="center">print("Yagogoo39")</h1>
+<h1 align="center">printf("Yagogoo39")</h1>
 
 <h4 align="center">Writing code that someday I will understand</h4>
 
