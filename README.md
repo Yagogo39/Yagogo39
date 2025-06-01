@@ -51,6 +51,10 @@
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=000&style=for-the-badge" alt="CSS3 Badge">
 
+<img src="https://img.shields.io/badge/REACT-1572B6?logo=react&logoColor=000&style=for-the-badge" alt="REACT Badge">
+
+
+
 <br>
 </div>
 
