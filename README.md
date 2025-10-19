@@ -24,11 +24,11 @@
 <h3>Setup</h3>
 <div style="display:flex">
 
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=000&style=for-the-badge" alt="Fedora Badge">
+  <img src="https://img.shields.io/badge/Arch-51A2DA?logo=archlinux&logoColor=000&style=for-the-badge" alt="Arch Badge">
   
-  <img src="https://img.shields.io/badge/Wayland-FFBC00?logo=wayland&logoColor=fff&style=for-the-badge" alt="Wayland Badge">
+  <img src="https://img.shields.io/badge/Hyprland-FFBC00?logo=hyprland&logoColor=fff&style=for-the-badge" alt="Hyprland Badge">
 
-  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge" alt="Vim Badge">
+  <img src="https://img.shields.io/badge/neovim-019733?logo=neovim&logoColor=fff&style=for-the-badge" alt="Neovim Badge">
   
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp Badge">
 
