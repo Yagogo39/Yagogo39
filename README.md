@@ -59,13 +59,13 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagogo39&layout=pie&theme=dark" alt="Top Langs">
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=La+%C3%BAltima+l%C3%ADnea+est%C3%A1+escrita...;El+sacrificio+est%C3%A1+hecho.;Yo...;Soy...;Dino&color=00FF66&font=Fira%20Code&center=true&width=500&height=50">
+  </a>
+</p>
 
-
 <div align="center">
-  <h4>it's funny because it's true</h4>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
 </div>
 
